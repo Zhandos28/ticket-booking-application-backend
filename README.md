@@ -1,7 +1,7 @@
 # 🎟 Ticket Booking Service (Backend)
 
 This is the **backend service** for the [Ticket Booking Application (Mobile)](https://github.com/Zhandos28/ticket-booking-application-mobil).  
-The project provides a ticket booking system with authentication, seat management, and order processing.
+The project provides a ticket booking system with authentication, event management, and ticket scanning process.
 
 ---
 
